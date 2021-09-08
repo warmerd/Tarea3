@@ -1,0 +1,4 @@
+nombre=justo
+apellido=perez
+edad=12
+telefono=56745
